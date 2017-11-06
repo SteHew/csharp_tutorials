@@ -1,0 +1,6 @@
+H:\C#_folder\Math_operations\Math_operations\bin\Debug\Math_operations.exe.config
+H:\C#_folder\Math_operations\Math_operations\bin\Debug\Math_operations.exe
+H:\C#_folder\Math_operations\Math_operations\bin\Debug\Math_operations.pdb
+H:\C#_folder\Math_operations\Math_operations\obj\Debug\Math_operations.exe
+H:\C#_folder\Math_operations\Math_operations\obj\Debug\Math_operations.pdb
+H:\C#_folder\Math_operations\Math_operations\obj\Debug\Math_operations.csprojResolveAssemblyReference.cache

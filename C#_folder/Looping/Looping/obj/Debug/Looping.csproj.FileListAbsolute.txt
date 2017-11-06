@@ -1,0 +1,6 @@
+H:\C#_folder\Looping\Looping\bin\Debug\Looping.exe.config
+H:\C#_folder\Looping\Looping\bin\Debug\Looping.exe
+H:\C#_folder\Looping\Looping\bin\Debug\Looping.pdb
+H:\C#_folder\Looping\Looping\obj\Debug\Looping.exe
+H:\C#_folder\Looping\Looping\obj\Debug\Looping.pdb
+H:\C#_folder\Looping\Looping\obj\Debug\Looping.csprojResolveAssemblyReference.cache

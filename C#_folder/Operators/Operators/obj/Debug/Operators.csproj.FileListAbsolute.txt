@@ -1,0 +1,6 @@
+H:\C#_folder\Operators\Operators\bin\Debug\Operators.exe.config
+H:\C#_folder\Operators\Operators\bin\Debug\Operators.exe
+H:\C#_folder\Operators\Operators\bin\Debug\Operators.pdb
+H:\C#_folder\Operators\Operators\obj\Debug\Operators.csprojResolveAssemblyReference.cache
+H:\C#_folder\Operators\Operators\obj\Debug\Operators.exe
+H:\C#_folder\Operators\Operators\obj\Debug\Operators.pdb

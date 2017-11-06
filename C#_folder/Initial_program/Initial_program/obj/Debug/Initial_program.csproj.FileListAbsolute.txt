@@ -1,0 +1,6 @@
+H:\C#_folder\Initial_program\Initial_program\bin\Debug\Initial_program.exe.config
+H:\C#_folder\Initial_program\Initial_program\bin\Debug\Initial_program.exe
+H:\C#_folder\Initial_program\Initial_program\bin\Debug\Initial_program.pdb
+H:\C#_folder\Initial_program\Initial_program\obj\Debug\Initial_program.csprojResolveAssemblyReference.cache
+H:\C#_folder\Initial_program\Initial_program\obj\Debug\Initial_program.exe
+H:\C#_folder\Initial_program\Initial_program\obj\Debug\Initial_program.pdb
