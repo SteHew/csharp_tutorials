@@ -1,0 +1,6 @@
+H:\C#_folder\Strings\Strings\bin\Debug\Strings.exe.config
+H:\C#_folder\Strings\Strings\bin\Debug\Strings.exe
+H:\C#_folder\Strings\Strings\bin\Debug\Strings.pdb
+H:\C#_folder\Strings\Strings\obj\Debug\Strings.exe
+H:\C#_folder\Strings\Strings\obj\Debug\Strings.pdb
+H:\C#_folder\Strings\Strings\obj\Debug\Strings.csprojResolveAssemblyReference.cache
