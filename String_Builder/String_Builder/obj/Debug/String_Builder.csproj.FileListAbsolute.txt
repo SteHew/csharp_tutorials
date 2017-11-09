@@ -1,0 +1,5 @@
+H:\C#_folder\String_Builder\String_Builder\bin\Debug\String_Builder.exe.config
+H:\C#_folder\String_Builder\String_Builder\bin\Debug\String_Builder.exe
+H:\C#_folder\String_Builder\String_Builder\bin\Debug\String_Builder.pdb
+H:\C#_folder\String_Builder\String_Builder\obj\Debug\String_Builder.exe
+H:\C#_folder\String_Builder\String_Builder\obj\Debug\String_Builder.pdb
